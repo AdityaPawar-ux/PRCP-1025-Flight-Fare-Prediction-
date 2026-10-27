@@ -95,13 +95,7 @@ accuracy than the random-split score.
 | `requirements.txt` | Python packages needed |
 | `README.md` | This file |
 
-## How to Run
-```bash
-git clone https://github.com/<your-username>/FlightFarePrediction.git
-cd FlightFarePrediction
-pip install -r requirements.txt
-jupyter notebook PRCP-1025-FlightPricePrediction.ipynb
-```
+
 The notebook takes about 5 to 10 minutes to run end to end because of hyperparameter tuning.
 
 ## Using the Saved Model
